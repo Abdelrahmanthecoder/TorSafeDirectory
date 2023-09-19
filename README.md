@@ -7,11 +7,11 @@
 
 <h2 align="center">Access the Site</h2>
 
-There currently is no .onion link for the site as it is fairly new, **TorSafeDirectory** will have a website launch soon though so stay tuned!
+<p align="center">There currently is no .onion link for the site as it is fairly new, **TorSafeDirectory** will have a website launch soon though so stay tuned!</p>
 
 <h2 align="center">Issues</h2>
 
-You can gladly submit any issues or bugs with the project on the [issues page](https://github.com/Abdelrahmanthecoder/TorSafeDirectory/issues)!
+<p align="center">You can gladly submit any issues or bugs with the project on the [issues page](https://github.com/Abdelrahmanthecoder/TorSafeDirectory/issues)!</p>
 
 <div align="center">
   <a href="https://github.com/Abdelrahmanthecoder" style="text-decoration:none;">
