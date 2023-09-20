@@ -7,7 +7,7 @@
 
 <h2 align="center">Access the Site</h2>
 
-<p align="center">There currently is no .onion link for the site as it is fairly new, TorSafeDirectory will have a website launch soon though so stay tuned!</p>
+<p align="center">The link to the site: http://aca55r2fz4wpo2rfn2tg3w2ltu6qbdsmceesdnp5zsz5ba7fnz3ht4qd.onion/</p>
 
 <h2 align="center">Issues</h2>
 
