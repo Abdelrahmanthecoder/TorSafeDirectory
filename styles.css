@@ -5,6 +5,8 @@
     background-color: #ffffff;
 }
 
-body {
-    background-color:  #ffffff;
+#main-body {
+    background-image: url('background-pic.png');
+    backdrop-filter: opacity(0.5);
+    backdrop-filter: blur(10px);
 }
