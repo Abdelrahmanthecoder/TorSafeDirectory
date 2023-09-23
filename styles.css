@@ -1,7 +1,7 @@
 #search-input {
     width: 100%;
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #ffffff;
     background-color: #ffffff;
 }
 
@@ -9,6 +9,7 @@ body {
   backdrop-filter: opacity(0.5);
   backdrop-filter: blur(5px);
   font-family: monospace;
+  background-color: #777;
 }
 
 ::selection {
