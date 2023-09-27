@@ -9,7 +9,7 @@ body {
   backdrop-filter: opacity(0.5);
   backdrop-filter: blur(5px);
   font-family: monospace;
-  background-color: linear-gradient(red, green);
+  background-color: linear-gradient(rgb(255, 0, 0), rgb(17, 0, 255));
 }
 
 ::selection {
